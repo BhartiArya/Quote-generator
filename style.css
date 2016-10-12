@@ -1,0 +1,31 @@
+body
+{
+	text-align:center;
+	background-image:url(new.jpg);
+	
+}
+
+div
+{
+	font-size:40px;
+}
+
+h1
+{
+	font-size:50px;
+}
+
+button
+{
+	font-size:30px;
+	color:black;
+	background-color:orange;
+	border:none;
+	text-decoration:none;
+	display:inline-block;
+	padding:14px 40px;
+	border-radius:12px;
+	outline:none;
+	cursor:pointer;
+	
+}
